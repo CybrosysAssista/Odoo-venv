@@ -19,8 +19,3 @@ We provide pre-configured Python virtual environments tailored for specific Odoo
 **Odoo venv for Odoo Versions**  
 Pre-configured virtual environments for Odoo 16/17/18, making it easy to set up, develop, and test Odoo projects without version conflicts.
 
----
-
-### Optional tagline
-
-**Isolate your Odoo projects. Develop with confidence.**
